@@ -17,3 +17,16 @@
 <br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ebrahim1133&" alt="Ebrahim Mohamed" /></p>
+
+<br>
+<br>
+<h1 >Graduation Project</h1>
+<br>
+<h3 >Natural Neural Vision Algorithms Using Deep Learning (A+ Grade)</h3>
+<br>
+
+<p>
+The goal is to build a concrete pipeline for analyzing electron microscopic videos and automatically detecting the position of hundreds of V1 Neurons accurately using a combination of Deep Learning Models and Artificial Intelligence Algorithms and also detecting the orientation selectivity for each of these neurons at once using Signal Processing techniques. 
+Detecting the orientation selectivity for the whole V1 Neurons can help in revealing new biological discoveries related to the origin of vision and developing many mathematical theories and models related to computer vision algorithms![image](https://user-images.githubusercontent.com/61478377/180538429-6ce368e0-671a-4276-b742-368196e4182e.png)
+
+</p>
