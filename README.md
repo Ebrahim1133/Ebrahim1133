@@ -1,5 +1,7 @@
+![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
+
 <h1 align="center">Hi 👋, I'm Ebrahim Mohamed</h1>
-<h3 align="center">CS Fresh Graduate at Cairo University Faculty of Computers and Artificial intelligence.</h3>
+<h3 align="center">CS Graduate at Cairo University Faculty of Computers and Artificial intelligence.</h3>
 <h3 align="center">👋, I'm Flutter Developer </h3>
 
 
